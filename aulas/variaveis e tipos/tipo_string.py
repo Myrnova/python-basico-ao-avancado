@@ -26,3 +26,4 @@ print(nome[0:4]) # selecionando do 0 ao 3, lembrando que nao pega a letra na pos
 print(nome[::-1]) # Inversão de String Pythonico
 
 print(nome.replace('G', 'P'))
+
